@@ -2,8 +2,6 @@
 
 📚 **Repositório oficial do curso de Desenvolvimento Mobile**, focado em **POO (Programação Orientada a Objetos)**, fundamentos do desenvolvimento **nativo e multiplataforma**, e criação de **aplicativos modernos com Flutter**.
 
-🔗 [Acesse o repositório no GitHub](https://github.com/matheuzinn7198/CursoMobile.git)
-
 ---
 
 ## 🚀 Objetivo do Curso
